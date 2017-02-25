@@ -1,0 +1,16 @@
+body {
+    margin: 0 auto;
+    padding: 0 auto;
+}
+
+#react {
+    width: 50%;
+    margin-left: 25%;
+}
+input {
+    width: 55% !important;
+    margin-left: 25%;
+}
+button {
+    cursor: pointer !important;
+}
